@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpit Rathore</h1>
 <h3 align="center">MNNIT Allahabad</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitrathore2020" alt="arpitrathore2020" /></a> </p>
 
 - 📫 How to reach me **arpitrathore2020@gmail.com**
 
